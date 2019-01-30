@@ -13,9 +13,11 @@ choco upgrade kdiff3 -y
 choco upgrade lightshot -y
 choco upgrade nodejs-lts -y
 choco upgrade notepadplusplus -y
+choco upgrade pdfsam -y
 choco upgrade postman -y
 choco upgrade putty -y
 choco upgrade sql-server-management-studio -y
+choco upgrade sysinternals -y
 choco upgrade TortoiseGit -y
 @echo choco upgrade tortoisesvn -y
 choco upgrade VisualStudioCode -y
